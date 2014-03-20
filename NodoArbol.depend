@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1393870418 source:c:\users\gabz\documents\github\nodoarbol\arbol.cpp
+	"arbol.h"
+	<iostream>
+
+1393870220 c:\users\gabz\documents\github\nodoarbol\arbol.h
+	<iostream>
+	"NodoArbol.h"
+
+1393953862 c:\users\gabz\documents\github\nodoarbol\nodoarbol.h
+
+1393870445 source:c:\users\gabz\documents\github\nodoarbol\main.cpp
+	<iostream>
+	"arbol.h"
+
+1393954172 source:c:\users\gabz\documents\github\nodoarbol\nodoarbol.cpp
+	"nodoarbol.h"
+	<iostream>
+
